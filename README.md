@@ -20,6 +20,7 @@ Da der vollständige Fragebogen für den gedruckten Anhang der Arbeit zu umfangr
 ## Inhalt des Repositories
 
 - vollständige Darstellungsfassung des Fragebogens
+- Textausschnitte für computergestützte Analyse
 - Jupyter-Notebook zur Datenbereinigung 
 - Jupyter-Notebooks zur Auswertung
 - Jupyter-Notebooks zur computergestützten Analyse
@@ -28,7 +29,7 @@ Da der vollständige Fragebogen für den gedruckten Anhang der Arbeit zu umfangr
 
 ## Repository-Struktur
 
-questionnaire/ – Vollständige Darstellungsfassung des Fragebogens  
+questionnaire/ – Vollständige Darstellungsfassung des Fragebogens (Fragebogen), Textausschnitte (im Ordner stylo_texts und alle Textausschnitte (xlsx-Datei))  
 documentation/ – Codebook, Datenaufbereitung, Reproduzierbarkeit  
 notebooks/ – Jupyter-Notebook zur Datenaufbereitung, Datenanalyse, computergestützten Analyse
 
