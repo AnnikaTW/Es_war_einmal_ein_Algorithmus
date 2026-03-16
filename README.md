@@ -90,4 +90,10 @@ dokumentiert.
 
 ## Hinweise zur Nachnutzung
 
-Für die Reproduktion der Analyse empfiehlt es sich, zunächst die Dokumentation der Datenstruktur und Datenaufbereitung zu lesen und anschließend das Notebook in der vorgesehenen Reihenfolge auszuführen.
+Für die Reproduktion der Analyse empfiehlt es sich folgende Reihenfolge:
+1. `README.md` lesen  
+2. `documentation/CODEBOOK.md` lesen  
+3. `documentation/DATA_PREPARATION.md` lesen  
+4. `notebooks/Analyse_Datensatz_Meerjungfrauenmaerchen.ipynb` öffnen  
+5.  die Datensätze mit den im Notebook berechneten Werten vergleichen
+
