@@ -30,7 +30,7 @@ Da der vollständige Fragebogen für den gedruckten Anhang der Arbeit zu umfangr
 ## Repository-Struktur
 
 questionnaire/ – Vollständige Darstellungsfassung des Fragebogens (Fragebogen), Textausschnitte (im Ordner stylo_texts und alle Textausschnitte (xlsx-Datei))  
-documentation/ – Codebook, Datenaufbereitung, Reproduzierbarkeit  
+documentation/ – Codebook, Datenaufbereitung  
 notebooks/ – Jupyter-Notebook zur Datenaufbereitung, Datenanalyse, computergestützten Analyse
 
 ## Fragebogen
